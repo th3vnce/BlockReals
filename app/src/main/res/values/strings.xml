@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlockReals</string>
+    <string name="accessibility_service_description">Watches Instagram for the Reels tab and player, and closes it automatically. Does not read or store any personal content.</string>
+</resources>
